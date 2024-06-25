@@ -1,0 +1,53 @@
+h1
+{
+
+    text-align: center;
+    color: #bde0fe ;
+
+}
+.azul
+{
+
+    border: solid skyblue;
+    background-color: cadetblue;
+
+}
+h2
+{
+
+    text-align: left;
+    color: #296eaa;
+    text-decoration: underline;
+
+}  
+h3
+{
+
+    text-decoration: underline;
+    color: deepskyblue;
+
+}
+.rojo
+{
+
+    border: solid  #ffafcc ;
+    color: #c00f53;
+    background-color: #f5b9e3;
+
+}
+.centro
+{
+
+    text-align: center;
+    
+    
+
+}
+
+.link
+{
+
+    font-size: 25px;
+    
+
+}
